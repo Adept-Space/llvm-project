@@ -1,3 +1,12 @@
+This fork aims to remove barriers to 
+
+1. Inclusion of LLVM in a browser
+2. Inclusion of LLVM in a server
+3. Inclusion of LLVM in an operating system
+
+As many other projects build off of LLVM's extensibility through LLVM-IR, it must become a central target for all development.
+
+
 # The LLVM Compiler Infrastructure
 
 This directory and its sub-directories contain source code for LLVM,
